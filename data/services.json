@@ -4,42 +4,42 @@
       "name": "Video Consultant",
       "img":"https://images.pexels.com/photos/4031818/pexels-photo-4031818.jpeg?auto=compress&cs=tinysrgb&w=400",
       "price" : "$350",
-      "title" : "You will learn here c++ briefly"
+      "title" : "Expert opinion in this field is supported by poor-quality data. The current knowledge reveals important similarities between doctors and the general population in their healthcare access, especially with mental health issues. Understanding this may help the medical profession to respond to these issues of ‘doctors’ health' more effectively."
     },
     {
      
       "name": "Live Consultant",
       "img":"https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "price" : "360",
-      "title" : "You will learn here Java briefly"
+      "price" : "$360",
+      "title" : "Expert opinion in this field is supported by poor-quality data. The current knowledge reveals important similarities between doctors and the general population in their healthcare access, especially with mental health issues. Understanding this may help the medical profession to respond to these issues of ‘doctors’ health' more effectively."
     },
     {
    
       "name": "Check Report",
       "img":"https://images.pexels.com/photos/7578809/pexels-photo-7578809.jpeg?auto=compress&cs=tinysrgb&w=400",
       "price" : "$400",
-      "title" : "You will learn here php briefly"
+      "title" : "Expert opinion in this field is supported by poor-quality data. The current knowledge reveals important similarities between doctors and the general population in their healthcare access, especially with mental health issues. Understanding this may help the medical profession to respond to these issues of ‘doctors’ health' more effectively."
     },
     {
       
       "name": "Body Checkup",
       "img":"https://images.pexels.com/photos/8413181/pexels-photo-8413181.jpeg?auto=compress&cs=tinysrgb&w=400",
       "price" : "$800",
-      "title" : "You will learn here wordpress briefly"
+      "title" : "Expert opinion in this field is supported by poor-quality data. The current knowledge reveals important similarities between doctors and the general population in their healthcare access, especially with mental health issues. Understanding this may help the medical profession to respond to these issues of ‘doctors’ health' more effectively."
     },
     {
       
       "name": "Family Service",
       "img":"https://images.pexels.com/photos/7659688/pexels-photo-7659688.jpeg?auto=compress&cs=tinysrgb&w=400",
       "price" : "$600",
-      "title" : "You will learn here javacript briefly"
+      "title" : "Expert opinion in this field is supported by poor-quality data. The current knowledge reveals important similarities between doctors and the general population in their healthcare access, especially with mental health issues. Understanding this may help the medical profession to respond to these issues of ‘doctors’ health' more effectively."
     },
     {
      
       "name": "Holyday Vist",
       "img":"https://images.pexels.com/photos/8460043/pexels-photo-8460043.jpeg?auto=compress&cs=tinysrgb&w=400",
       "price" : "$340",
-      "title" : "You will learn here phython briefly"
+      "title" : "Expert opinion in this field is supported by poor-quality data. The current knowledge reveals important similarities between doctors and the general population in their healthcare access, especially with mental health issues. Understanding this may help the medical profession to respond to these issues of ‘doctors’ health' more effectively."
     }
    
   ]
